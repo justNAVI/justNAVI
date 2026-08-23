@@ -11,7 +11,7 @@
 <div align="center"> Cybersecurity Student | TryHackMe Member | Bug Bounty Enthusiast</div>
 <p></p>
 <div align="center">
-  <img src="https://i.pinimg.com/736x/91/f7/a7/91f7a7abe73ccbdf834cd221cb445f09.jpg" alt="Texto Alternativo" width="500px">
+  <img src="https://i.imgur.com/pYpHNMr.jpeg" alt="" width="500px">
 </div>
 
 <div align="center">
