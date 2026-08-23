@@ -1,16 +1,26 @@
-## Hi there 👋
+# <div align="center"> 𝙷𝚒, 𝙸'𝚖 𝙽𝚊𝚟𝚒, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚞! </div>
 
-<!--
-**justNAVI/justNAVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`"Try Harder isn't just a motto ― it's a mindset. And once you internalize it, it stays with you everywhere you go." ― Ning Wang`
+
+</div>
+
+
+<div align="center"> Cybersecurity Student | TryHackMe Member | Bug Bounty Enthusiast</div>
+<p></p>
+<div align="center">
+  <img src="https://i.pinimg.com/736x/91/f7/a7/91f7a7abe73ccbdf834cd221cb445f09.jpg" alt="Texto Alternativo" width="500px">
+</div>
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-404NAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/404NAVI)
+
+</div>
+
+ <div align="center"> 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜 𝚊𝚛𝚎 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍𝚜. </div>
+
+##
+
