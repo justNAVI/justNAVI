@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-404NAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/404NAVI)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-justNAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/404NAVI)
 
 </div>
 
