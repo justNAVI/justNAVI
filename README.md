@@ -16,11 +16,10 @@
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-justNAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/404NAVI)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-justNAVI-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/justNAVI)
 
 </div>
 
- <div align="center"> 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛𝚜 𝚊𝚛𝚎 𝚖𝚢 𝚏𝚛𝚒𝚎𝚗𝚍𝚜. </div>
 
 ##
 
